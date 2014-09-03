@@ -1,0 +1,14 @@
+## This does the actual work
+#for apk_file in $apk_files; do
+#  if [ -f $apk_file ]; then
+#    curl http://testflightapp.com/api/builds.json \
+#      -F file=@`ls $apk_file` \
+#      -F api_token=$api_token \
+#      -F team_token=$team_token \
+#      -F notes="$release_notes" \
+#      -F notify=$notify \
+#      -F distribution_lists=$distribution_lists;
+#  else
+#    echo "($apk_file) not found, skipping upload to TestFlight..."
+#fi
+#done

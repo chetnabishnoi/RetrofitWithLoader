@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Project: RetrofitDemo -->
+<!-- Language: ${language.name} (${language.code}) -->
+<!-- Template name: strings_android_inherit_padd -->
+<!-- Artifact name: ${artifact.name} -->
+
+<resources>
+    <string name="app_name">"RetrofitDemo"</string>
+
+</resources>

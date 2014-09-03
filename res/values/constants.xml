@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="domain">http://retrofit.apiary-mock.com</string>
+    <string name="cache_dir">Retrofit</string>
+    <item name="loader.items" type="id"/>
+    <item name="loader.post.item" type="id"/>
+</resources>

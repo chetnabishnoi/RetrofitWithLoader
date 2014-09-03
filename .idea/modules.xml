@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RetrofitDemo.iml" filepath="$PROJECT_DIR$/RetrofitDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gen-external-apklibs/~apklib-com.google.android_support-v7-appcompat_r19.0.1.iml" filepath="$PROJECT_DIR$/gen-external-apklibs/~apklib-com.google.android_support-v7-appcompat_r19.0.1.iml" />
+    </modules>
+  </component>
+</project>
+
