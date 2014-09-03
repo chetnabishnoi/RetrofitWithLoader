@@ -44,7 +44,6 @@ public class RetrofitRestApi {
                 public boolean verify(String s, SSLSession sslSession) {
                     HostnameVerifier hv =
                             HttpsURLConnection.getDefaultHostnameVerifier();
-                    //return hv.verify("selfcare.nawras.om", sslSession);
                     return true;
 
                 }
